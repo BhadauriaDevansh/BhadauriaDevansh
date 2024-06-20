@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadauriadevansh&label=Profile%20views&color=0e75b6&style=flat" alt="bhadauriadevansh" /> </p>
 
-- 🔭 I’m currently working on **Full Stack project**
+- 🔭 I’m currently working on **Full Stack projects**
 
-- 🌱 I’m currently learning **Power BI, Mongo DB**
+- 🌱 I’m currently learning **Power BI, MongoDB**
 
 - 💬 Ask me about **MERN Stack, Devops, Mysql**
 
