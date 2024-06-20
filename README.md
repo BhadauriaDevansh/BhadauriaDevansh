@@ -7,7 +7,7 @@ Bhadauria</h1>
 
 - 🔭 I’m currently working on **Full Stack projects**
 
-- 🌱 I’m currently learning **Power BI, Mongo DB **
+- 🌱 I’m currently learning **Power BI, Mongo DB**
 
 - 💬 Ask me about **MERN stack development, Devops, Mysql**
 
