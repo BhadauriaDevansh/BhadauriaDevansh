@@ -9,7 +9,7 @@ Bhadauria</h1>
 
 - 🌱 I’m currently learning **Power BI, Mongo DB**
 
-- 💬 Ask me about **MERN stack development, Devops, Mysql**
+- 💬 Ask me about **MERN Stack, Devops, Mysql**
 
 - 📫 How to reach me **devanshbhadauria4070@gmail.com**
 
